@@ -1,0 +1,9 @@
+py
+exif
+fastapi
+fastapi-cli
+google-generativeai
+piexif
+pydantic
+pydantic_core
+requests
